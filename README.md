@@ -3,7 +3,7 @@ This is a test project for SCC practical 2
 
 
 
-*** This is another highlight ***
+***This is another highlight***
 
 
 Below are the important items:
